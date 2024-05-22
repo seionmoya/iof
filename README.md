@@ -1,2 +1,1 @@
-# iof
-SPT mod: inventory organizing features
+# inventory organizing features
